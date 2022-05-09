@@ -20,7 +20,7 @@ The data Martha will be working with is not ideal, so it will need to be process
   * ![3D-Scatter](/images/scatter_3d.png "3D-Scatter")
   * ![hvplot scatter plot](/images/hvplot_scatter2.png)
   
-
+BitTorrent is showing as an outlier in my data; going to have to address that.
 
 
 Module 18
