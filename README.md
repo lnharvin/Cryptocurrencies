@@ -18,7 +18,7 @@ The data Martha will be working with is not ideal, so it will need to be process
   * ![hvplot table](/images/hvplot_table.PNG "hvplot table")
 * Deliverable 4: Visualizing Cryptocurrencies Results
   * ![3D-Scatter](/images/scatter_3d.png "3D-Scatter")
-  * [hvplot scatter plot](/images/chvplot_scatter.PNG)
+  * [hvplot scatter plot](/images/hvplot_scatter2.PNG)
 
 
 
